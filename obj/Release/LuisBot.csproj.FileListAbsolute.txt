@@ -1,0 +1,123 @@
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\bin\LuisBot.dll.config
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\bin\LuisBot.dll
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\bin\LuisBot.pdb
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\bin\Autofac.dll
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\bin\Chronic.dll
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\bin\Microsoft.Bot.Builder.dll
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\bin\Microsoft.Bot.Connector.dll
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\bin\Newtonsoft.Json.dll
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\bin\System.Net.Http.Formatting.dll
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\bin\System.Web.Http.dll
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\bin\System.Web.Http.WebHost.dll
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\bin\Autofac.xml
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\bin\Microsoft.Bot.Builder.xml
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\bin\Microsoft.Bot.Connector.xml
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\bin\Newtonsoft.Json.xml
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\bin\System.Net.Http.Formatting.xml
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\bin\System.Web.Http.xml
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\bin\System.Web.Http.WebHost.xml
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\obj\Release\LuisBot.csprojResolveAssemblyReference.cache
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\obj\Release\LuisBot.dll
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\obj\Release\LuisBot.pdb
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\bin\ApplicationInsights.config
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\bin\Microsoft.AI.Web.dll
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\bin\Microsoft.ApplicationInsights.dll
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\bin\Microsoft.AI.Web.xml
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\bin\Microsoft.ApplicationInsights.xml
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\bin\Microsoft.ApplicationInsights.TraceListener.dll
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\bin\Microsoft.ApplicationInsights.TraceListener.xml
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\bin\RestSharp.dll
+C:\Users\damian.grech\Documents\Visual Studio 2017\Projects\LUIS\bin\RestSharp.xml
+C:\Users\victor.sanchez\Downloads\LuisBot\bin\ApplicationInsights.config
+C:\Users\victor.sanchez\Downloads\LuisBot\bin\LuisBot.dll.config
+C:\Users\victor.sanchez\Downloads\LuisBot\bin\LuisBot.dll
+C:\Users\victor.sanchez\Downloads\LuisBot\bin\LuisBot.pdb
+C:\Users\victor.sanchez\Downloads\LuisBot\bin\Autofac.dll
+C:\Users\victor.sanchez\Downloads\LuisBot\bin\Chronic.dll
+C:\Users\victor.sanchez\Downloads\LuisBot\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\victor.sanchez\Downloads\LuisBot\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\victor.sanchez\Downloads\LuisBot\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\victor.sanchez\Downloads\LuisBot\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\victor.sanchez\Downloads\LuisBot\bin\Microsoft.AI.Web.dll
+C:\Users\victor.sanchez\Downloads\LuisBot\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\victor.sanchez\Downloads\LuisBot\bin\Microsoft.ApplicationInsights.dll
+C:\Users\victor.sanchez\Downloads\LuisBot\bin\Microsoft.ApplicationInsights.TraceListener.dll
+C:\Users\victor.sanchez\Downloads\LuisBot\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\victor.sanchez\Downloads\LuisBot\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\victor.sanchez\Downloads\LuisBot\bin\Microsoft.Bot.Builder.dll
+C:\Users\victor.sanchez\Downloads\LuisBot\bin\Microsoft.Bot.Connector.dll
+C:\Users\victor.sanchez\Downloads\LuisBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\victor.sanchez\Downloads\LuisBot\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\victor.sanchez\Downloads\LuisBot\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\victor.sanchez\Downloads\LuisBot\bin\Newtonsoft.Json.dll
+C:\Users\victor.sanchez\Downloads\LuisBot\bin\RestSharp.dll
+C:\Users\victor.sanchez\Downloads\LuisBot\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\victor.sanchez\Downloads\LuisBot\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\victor.sanchez\Downloads\LuisBot\bin\System.Net.Http.Formatting.dll
+C:\Users\victor.sanchez\Downloads\LuisBot\bin\System.Web.Http.dll
+C:\Users\victor.sanchez\Downloads\LuisBot\bin\System.Web.Http.WebHost.dll
+C:\Users\victor.sanchez\Downloads\LuisBot\bin\Autofac.xml
+C:\Users\victor.sanchez\Downloads\LuisBot\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\victor.sanchez\Downloads\LuisBot\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\victor.sanchez\Downloads\LuisBot\bin\Microsoft.AI.Web.xml
+C:\Users\victor.sanchez\Downloads\LuisBot\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\victor.sanchez\Downloads\LuisBot\bin\Microsoft.ApplicationInsights.xml
+C:\Users\victor.sanchez\Downloads\LuisBot\bin\Microsoft.ApplicationInsights.TraceListener.xml
+C:\Users\victor.sanchez\Downloads\LuisBot\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\victor.sanchez\Downloads\LuisBot\bin\Microsoft.Bot.Builder.xml
+C:\Users\victor.sanchez\Downloads\LuisBot\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\victor.sanchez\Downloads\LuisBot\bin\Microsoft.Bot.Connector.xml
+C:\Users\victor.sanchez\Downloads\LuisBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\victor.sanchez\Downloads\LuisBot\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\victor.sanchez\Downloads\LuisBot\bin\Newtonsoft.Json.xml
+C:\Users\victor.sanchez\Downloads\LuisBot\bin\RestSharp.xml
+C:\Users\victor.sanchez\Downloads\LuisBot\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\victor.sanchez\Downloads\LuisBot\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\victor.sanchez\Downloads\LuisBot\bin\System.Net.Http.Formatting.xml
+C:\Users\victor.sanchez\Downloads\LuisBot\bin\System.Web.Http.xml
+C:\Users\victor.sanchez\Downloads\LuisBot\bin\System.Web.Http.WebHost.xml
+C:\Users\victor.sanchez\Downloads\LuisBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\victor.sanchez\Downloads\LuisBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\victor.sanchez\Downloads\LuisBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\victor.sanchez\Downloads\LuisBot\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\victor.sanchez\Downloads\LuisBot\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\victor.sanchez\Downloads\LuisBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\victor.sanchez\Downloads\LuisBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\victor.sanchez\Downloads\LuisBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\victor.sanchez\Downloads\LuisBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\victor.sanchez\Downloads\LuisBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\victor.sanchez\Downloads\LuisBot\obj\Release\LuisBot.csprojResolveAssemblyReference.cache
+C:\Users\victor.sanchez\Downloads\LuisBot\obj\Release\LuisBot.csproj.CoreCompileInputs.cache
+C:\Users\victor.sanchez\Downloads\LuisBot\obj\Release\LuisBot.dll
+C:\Users\victor.sanchez\Downloads\LuisBot\obj\Release\LuisBot.pdb
